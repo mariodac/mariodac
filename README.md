@@ -2,6 +2,8 @@
 
 # It's me Mario
 
+<img height="180em" src="https://gifmania.com.br/wp-content/uploads/2020/05/its-me-mario-gif.gif"/>
+
 <div>
    <a href="https://github.com/mariodac">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariodac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
