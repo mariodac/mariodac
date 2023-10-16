@@ -4,7 +4,6 @@
 
 ![](https://gifmania.com.br/wp-content/uploads/2020/05/its-me-mario-gif.gif)
 
-
 <div>
    <a href="https://github.com/mariodac">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariodac&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
@@ -24,6 +23,9 @@
   <a href="https://www.instagram.com/mariodouglasalvescabral/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mdac.mario@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mário-douglas-alves-cabral-9b7278273" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+ <br>
+ 
   <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -36,7 +38,5 @@
     src="https://raw.githubusercontent.com/mariodac/mariodac/output/github-contribution-grid-snake.svg"
   />
 </picture>
-   <div align="center">
-      ![](https://komarev.com/ghpvc/?username=mariodac&color=blueviolet&style=flat-square)
-   </div>
+
 </div>
