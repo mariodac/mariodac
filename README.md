@@ -36,4 +36,6 @@
     src="https://raw.githubusercontent.com/mariodac/mariodac/output/github-contribution-grid-snake.svg"
   />
 </picture>
+   ![](https://komarev.com/ghpvc/?username=mariodac&color=blueviolet&style=flat-square)
+   </div>
 </div>
