@@ -1,6 +1,5 @@
 ### Hello World! 👋
 
-# It's me Mario
 
 ![](https://gifmania.com.br/wp-content/uploads/2020/05/its-me-mario-gif.gif)
 
