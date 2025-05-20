@@ -9,7 +9,7 @@
    
    <!-- Estatísticas do GitHub com tamanho fixo -->
    <a href="https://github.com/mariodac" style="text-decoration: none;">
-      <img width="430" height="100%" src="https://github-readme-stats.vercel.app/api?username=mariodac&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" style="display: inline-block; margin: 5px; vertical-align: top;"/>
+      <img width="100%" height="180" src="https://github-readme-stats.vercel.app/api?username=mariodac&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" style="display: inline-block; margin: 5px; vertical-align: top;"/>
    </a>
 </div>
 
