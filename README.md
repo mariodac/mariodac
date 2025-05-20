@@ -1,9 +1,9 @@
 ### Hello World! 👋
 
 
-![](https://gifmania.com.br/wp-content/uploads/2020/05/its-me-mario-gif.gif)
 
 <div>
+   <img src="https://gifmania.com.br/wp-content/uploads/2020/05/its-me-mario-gif.gif" height="180em" alt="Mario">
    <a href="https://github.com/mariodac">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariodac&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariodac&layout=compact&langs_count=6&theme=blue-green"/>
