@@ -4,13 +4,13 @@
    <!-- Imagem do Mario com tamanho fixo -->
    <img src="https://gifmania.com.br/wp-content/uploads/2020/05/its-me-mario-gif.gif" width="220" height="180" style="display: inline-block; margin: 5px; vertical-align: top; border-radius: 5px;" alt="Mario">
    
+   <!-- Linguagens com tamanho fixo -->
+   <img width="330" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariodac&layout=compact&langs_count=6&theme=blue-green" style="display: inline-block; margin: 5px; vertical-align: top;"/>
+   
    <!-- Estatísticas do GitHub com tamanho fixo -->
    <a href="https://github.com/mariodac" style="text-decoration: none;">
-      <img width="220" height="180" src="https://github-readme-stats.vercel.app/api?username=mariodac&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" style="display: inline-block; margin: 5px; vertical-align: top;"/>
+      <img width="430" height="180" src="https://github-readme-stats.vercel.app/api?username=mariodac&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" style="display: inline-block; margin: 5px; vertical-align: top;"/>
    </a>
-   
-   <!-- Linguagens com tamanho fixo -->
-   <img width="220" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariodac&layout=compact&langs_count=6&theme=blue-green" style="display: inline-block; margin: 5px; vertical-align: top;"/>
 </div>
 
 <br>
