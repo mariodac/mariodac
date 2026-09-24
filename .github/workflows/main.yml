@@ -9,7 +9,6 @@ on:
   push:
     branches:
       - master
-      - main
 
 jobs:
   generate:
@@ -40,7 +39,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Update WakaTime Stats
-        uses: athul/waka-readme@master
+      # NOVO PASSO: Criação dos cartões visuais do WakaTime
+      - name: Generate WakaTime Graphical Cards
+        uses: LauraAllObe/wakatimeReadmeStats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_CARD: "true"
+          CARD_TYPE: "wakatime"
+          THEME: "teal_neon" # Opções: dark, light, radical, frost_steel, etc.
