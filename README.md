@@ -1,12 +1,7 @@
 <h3>Hello World! 👋</h3>
 <div style="width: 100%; max-width: 590px; margin: 0 auto;">
-   <!-- Primeira linha -->
-   <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+   <div style="display: flex; justify-content: space-between; gap: 10px;">
      <img src="https://gifmania.com.br/wp-content/uploads/2020/05/its-me-mario-gif.gif" width="220" height="180" style="border-radius: 5px;" alt="Mario">
-   </div>
-   
-   <!-- Segunda linha -->
-   <div style="display: flex; justify-content: space-between;">
      <img src="https://media1.tenor.com/m/SpLzPXae1bQAAAAd/power-up-mario.gif" width="220" height="180" style="border-radius: 5px;" alt="Mario Grow up">
    </div>
 </div>
