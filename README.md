@@ -8,8 +8,6 @@
 
 <br>
 
-<img src="wakatime/stats.svg" height="300"/>
-
 <!--START_SECTION:waka-->
 
 ```txt
