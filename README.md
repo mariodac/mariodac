@@ -9,6 +9,15 @@
 <br>
 
 <!--START_SECTION:waka-->
+
+```txt
+Python       6 hrs 38 mins         ██████████████████████▓░░   90.93 %
+Text         17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Markdown     15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+CSV          7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+AutoHotkey   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
 <!--END_SECTION:waka-->
 
 <div style="display: inline_block">
